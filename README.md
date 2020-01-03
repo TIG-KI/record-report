@@ -4,7 +4,7 @@
 
 
 
-![1578033447654](C:\Users\17635\AppData\Roaming\Typora\typora-user-images\1578033447654.png)
+![1578033447654](https://github.com/TIG-KI/record-report/blob/master/screenShot/1578033440326.png?raw=true)
 ## 解决办法
 ```shell
 git pull origin master
